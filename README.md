@@ -1,2 +1,2 @@
 # CapabilityMaturity
-Capability Maturity Assesssment
+Capability Maturity Assesssment Project
